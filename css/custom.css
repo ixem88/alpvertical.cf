@@ -46,7 +46,7 @@ body {
 /* Buttons */
 
 .btn-info {
-    background-color:#ff66cc;
+    background-color:#00ff99;
     padding: 1rem 4rem;
     border:3px solid transparent;
     width: 225px;
@@ -54,14 +54,14 @@ body {
 
 .btn-info:hover {
     background-color:transparent;
-    border:3px solid #ff66cc;
-    color: #ff66cc;
+    border:3px solid #00ff99;
+    color: #00ff99;
 }
 
 .btn-info:active {
     background-color:transparent !important;
-    border:3px solid #ff66cc !important;
-    color: #ff66cc !important;
+    border:3px solid #00ff99 !important;
+    color: #00ff99 !important;
 }
 
 /* Specials */
