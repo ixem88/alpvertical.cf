@@ -24,7 +24,7 @@ body {
 }
 
 .active {
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid #ff66cc;
 }
 
 /* Carousel */
@@ -46,7 +46,7 @@ body {
 /* Buttons */
 
 .btn-info {
-    background-color:#21ddfb;
+    background-color:#ff66cc;
     padding: 1rem 4rem;
     border:3px solid transparent;
     width: 225px;
@@ -54,14 +54,14 @@ body {
 
 .btn-info:hover {
     background-color:transparent;
-    border:3px solid #21ddfb;
-    color: #21ddfb;
+    border:3px solid #ff66cc;
+    color: #ff66cc;
 }
 
 .btn-info:active {
     background-color:transparent !important;
-    border:3px solid #21ddfb !important;
-    color: #21ddfb !important;
+    border:3px solid #ff66cc !important;
+    color: #ff66cc !important;
 }
 
 /* Specials */
