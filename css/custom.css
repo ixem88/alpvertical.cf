@@ -12,19 +12,19 @@ body {
 /* Navbar */
 
 .bg-dark {
-    background-color: #ff66cc!important;
+    background-color: #000000!important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #ff66cc;
+    color: #000000;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    border-bottom: 2px solid #ff66cc;
+    border-bottom: 2px solid #ffff80;
 }
 
 .active {
-    border-bottom: 2px solid #ff66cc;
+    border-bottom: 2px solid #ffff80;
 }
 
 /* Carousel */
@@ -46,7 +46,7 @@ body {
 /* Buttons */
 
 .btn-info {
-    background-color:#00ff99;
+    background-color:#000000;
     padding: 1rem 4rem;
     border:3px solid transparent;
     width: 225px;
@@ -54,14 +54,14 @@ body {
 
 .btn-info:hover {
     background-color:transparent;
-    border:3px solid #00ff99;
-    color: #00ff99;
+    border:3px solid #000000;
+    color: #000000;
 }
 
 .btn-info:active {
     background-color:transparent !important;
-    border:3px solid #00ff99 !important;
-    color: #00ff99 !important;
+    border:3px solid #ffff80 !important;
+    color: #ffff80 !important;
 }
 
 /* Specials */
